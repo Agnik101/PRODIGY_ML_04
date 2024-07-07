@@ -13,6 +13,7 @@ Applications:
 Workflow Summary:
 
                   Data Collection → Preprocessing → Building CNN → Training CNN → Making a singl prediction
+<h1><b>Accuracy: 98.95%</b></h1>
 
 <br></br>
 <hr></hr>
